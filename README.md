@@ -10,7 +10,7 @@ The TV that have connected to my computer often gets picked up by my computer as
 ## Instructions:
 	  - Download Scan-Hardware.ps1
 	  - Open PowerShell
-	  - Run from use account that has Admin permissions. Note: Does not need to be run from an Admin shell.
+	  - Run from user account that has Admin permissions. Note: Does not need to be run from an Admin shell.
 ```powershell
 .\Scan-Hardware
 ```
